@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emiza-todo/static/css/main.e0d9f98e.css",
-    "main.js": "/emiza-todo/static/js/main.3ac9fb96.js",
+    "main.js": "/emiza-todo/static/js/main.38e297b4.js",
     "static/js/787.cda612ba.chunk.js": "/emiza-todo/static/js/787.cda612ba.chunk.js",
     "index.html": "/emiza-todo/index.html",
     "main.e0d9f98e.css.map": "/emiza-todo/static/css/main.e0d9f98e.css.map",
-    "main.3ac9fb96.js.map": "/emiza-todo/static/js/main.3ac9fb96.js.map",
+    "main.38e297b4.js.map": "/emiza-todo/static/js/main.38e297b4.js.map",
     "787.cda612ba.chunk.js.map": "/emiza-todo/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0d9f98e.css",
-    "static/js/main.3ac9fb96.js"
+    "static/js/main.38e297b4.js"
   ]
 }
